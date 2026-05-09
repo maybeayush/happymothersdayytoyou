@@ -28,7 +28,7 @@
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
   name: "Prachi",
-  photo: ".img/IMG-20260424-WA0048.jpg",       // Place your photo in the img/ folder
+  photo: "./img/IMG-20260424-WA0048.jpg",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
