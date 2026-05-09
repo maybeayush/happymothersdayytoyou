@@ -99,7 +99,7 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
+      wishTitle: "Happy Mother's Day!",
       wishText: "May the next time i wish you i could hug you! ;)",
     },
     {
